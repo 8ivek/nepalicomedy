@@ -2,6 +2,14 @@
 <head>
     <title>Hellow</title>
     <link rel="stylesheet" href="assets/css/style.css"/>
+    <script src="node_modules/angular/angular.min.js"></script>
+    <script src="node_modules/angular-sanitize/angular-sanitize.min.js"></script>
+    <script src="node_modules/videogular/videogular.js"></script>
+    <script src="node_modules/videogular-controls/vg-controls.js"></script>
+    <script src="node_modules/videogular-overlay-play/vg-overlay-play.js"></script>
+    <script src="node_modules/videogular-poster/vg-poster.js"></script>
+    <script src="node_modules/videogular-buffering/vg-buffering.js"></script>
+    <script src="assets/js/main.js"></script>
 </head>
 <body>
 <h1>Title</h1>
@@ -40,14 +48,5 @@
         </div>
     </div>
 </div>
-
-<script src="node_modules/angular/angular.min.js"></script>
-<script src="node_modules/angular-sanitize/angular-sanitize.min.js"></script>
-<script src="node_modules/videogular/videogular.js"></script>
-<script src="node_modules/videogular-controls/vg-controls.js"></script>
-<script src="node_modules/videogular-overlay-play/vg-overlay-play.js"></script>
-<script src="node_modules/videogular-poster/vg-poster.js"></script>
-<script src="node_modules/videogular-buffering/vg-buffering.js"></script>
-<script src="assets/js/main.js"></script>
 </body>
 </html>
